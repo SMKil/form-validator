@@ -1,7 +1,7 @@
 # form-validator 
 A sign up form with input fields.
 
-**See live demo [here](https://smkil.github.io/form-validator/)
+**See live demo [here](https://smkil.github.io/form-validator/)**
 
 This demo demonstrates:
 - Asks for a specific form for phone number, email address, website and password
